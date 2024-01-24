@@ -52,7 +52,7 @@ uvicorn main:app --reload
 - numpy
 
 # Acknowledgments
-The toxicity classification model is trained using labeled data from (link)[]
+The toxicity classification model is trained using labeled data from [Kaggle](https://www.kaggle.com/datasets/ashwiniyer176/toxic-tweets-dataset?resource=download)
 
 # License
 This project is licensed under the MIT License
